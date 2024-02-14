@@ -1,0 +1,20 @@
+{
+    "rented": true,
+    "price": 12,
+    "director": "max",
+    "name": "max",
+    "genre": "Horror",
+    "publisher": "max",
+    "className": "Movie",
+    "id": 1
+}
+{
+    "rented": false,
+    "price": 23,
+    "director": "",
+    "name": "",
+    "genre": "",
+    "publisher": "",
+    "className": "Game",
+    "id": 8
+}
